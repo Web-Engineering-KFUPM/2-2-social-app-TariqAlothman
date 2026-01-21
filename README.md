@@ -1,4 +1,4 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/EKFD40qa)
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/-49FiLQY)
 # Simple Social Media Page (HTML Only)
 
 ## Overview
@@ -27,7 +27,7 @@ A single-page, HTML-only mini app featuring:
 > **Note:**  
 > Please follow the steps strictly to gain good marks in the assignment.  
 >  
-> **Due Date:** 19 Jan, 2026, **11:59 PM**
+> **Due Date:** 21 Jan, 2026, **11:59 PM**
 
 ### Step 1: Start from the Starter File
 1. Open `index.html` in your editor.
